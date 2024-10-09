@@ -22,7 +22,7 @@ This project is a LinkedIn clone, built using React, Vite, and Tailwind CSS. It 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/linkedin-clone.git
+   git clone https://github.com/VishalKotekar/Linkedin_Clone.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -52,6 +52,10 @@ To contribute:
 3. Commit your changes (`git commit -m 'Add feature'`).
 4. Push to your branch (`git push origin feature-name`).
 5. Open a pull request.
+
+## GitHub Repository
+
+You can find the project repository [here](https://github.com/VishalKotekar/Linkedin_Clone.git).
 
 ## License
 This project is licensed under the MIT License.
